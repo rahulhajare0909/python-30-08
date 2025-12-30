@@ -1,0 +1,1 @@
+print("Rahul", 'hi', '3', 8, 6, "\n rahul")
