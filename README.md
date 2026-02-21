@@ -5,7 +5,7 @@
 This repository contains my structured practice and learning modules for Python programming.
 It covers fundamental concepts from basic syntax to functions, loops, and object-oriented programming.
 
-The goal of this project is to build a strong Python foundation for automation, data science, and AI/ML development.
+The goal of this project is to build a strong Python foundation.
 
 ---
 
@@ -83,5 +83,6 @@ python filename.py
 
 **Rahul Hajare**
 QA Engineer | Transitioning toward AI Augmented SDET
+
 
 
